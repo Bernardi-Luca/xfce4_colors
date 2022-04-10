@@ -1,0 +1,7 @@
+#Converted from https://github.com/tomruk/cyberpunk-2077-dotfiles/blob/master/.Xdefaults with https://terminal.sexy/
+#Just paste/substitute the following lines at the end of ~/.config/xfce4/terminal/terminalrc
+
+ColorCursor=#ffff2f2f4545
+ColorForeground=#ffff2f2f4545
+ColorBackground=#030303030303
+ColorPalette=#090909090909;#8c8c46466565;#282873737373;#7c7c7c7c9999;#2222ededfcfc;#5e5e46468c8c;#313165658c8c;#9e9e9e9ecbcb;#404040404040;#bfbf4d4d8080;#5353a6a6a6a6;#9e9e9e9ecbcb;#2222ededfcfc;#7e7e6262b3b3;#60609696bfbf;#c0c0c0c0c0c0
